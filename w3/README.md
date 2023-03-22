@@ -1,7 +1,7 @@
 ### 3주차 git
 
 ### 이미지
-![한국항공대학교 로고](../img/kau/kau.png)
+![한국항공대학교 로고](https://raw.githubusercontent.com/nparkcourage/2023-kau-0504/main/w3/2023_OSS/img/kau/kau.png?token=GHSAT0AAAAAAB7A44NQOZNZBR2SWJZFZIPAZA3EFOQ)
 
 ### 링크   
 [LMS](https://lms.kau.ac.kr)
