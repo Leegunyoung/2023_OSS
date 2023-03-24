@@ -23,7 +23,7 @@
     * 예) git log --oneline --decorate --graph --all
 
 ###### 추가적인 깃 명령어
-[이건영 깃 명령어 모음집]()
+[이건영 깃 명령어 모음집](https://github.com/Leegunyoung/2023_OSS/tree/main/gitSummary)
 ------
 ### 2주차 숙제
 
