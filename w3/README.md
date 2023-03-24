@@ -1,7 +1,7 @@
 ### 3주차 git
 
 ### 이미지
-![한국항공대학교 로고](https://raw.githubusercontent.com/Leegunyoung/2023_OSS/main/%ED%95%99%EA%B5%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
+![한국항공대학교 로고](https://user-images.githubusercontent.com/81861164/227498147-8a3cc7f9-753b-4aa6-b8e5-c2d41a7a0b25.png)
 
 ### 링크   
 [LMS](https://lms.kau.ac.kr)
