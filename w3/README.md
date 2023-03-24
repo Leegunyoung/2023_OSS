@@ -1,7 +1,7 @@
 ### 3주차 git
 
 ### 이미지
-![한국항공대학교 로고](https://raw.githubusercontent.com/nparkcourage/2023-kau-0504/main/w3/2023_OSS/img/kau/kau.png?token=GHSAT0AAAAAAB7A44NQOZNZBR2SWJZFZIPAZA3EFOQ)
+![한국항공대학교 로고](https://raw.githubusercontent.com/Leegunyoung/2023_OSS/main/%ED%95%99%EA%B5%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
 
 ### 링크   
 [LMS](https://lms.kau.ac.kr)
@@ -23,7 +23,7 @@
     * 예) git log --oneline --decorate --graph --all
 
 ###### 추가적인 깃 명령어
-[이건영 깃 명령어 모음집](https://github.com/Leegunyoung/2023_OSS/blob/main/w3/git_command.txt)
+[이건영 깃 명령어 모음집](https://github.com/Leegunyoung/2023_OSS/blob/main/git%20summary.pdf)
 ------
 ### 2주차 숙제
 
