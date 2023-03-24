@@ -22,6 +22,8 @@
 * log
     * 예) git log --oneline --decorate --graph --all
 
+###### 추가적인 깃 명령어
+[이건영 깃 명령어 모음집]
 ------
 ### 2주차 숙제
 
@@ -29,12 +31,12 @@
 #!/usr/bin/env bash
 echo "----------"
 echo "name :"
-echo "이건영"
+
 echo
 
 echo "----------"
 echo "student id :"
-echo "2021125042"
+
 
 file_path=`find /home/kau2/ -name w2_homework.txt 2> /dev/null`
 echo "----------"
