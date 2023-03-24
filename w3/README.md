@@ -23,7 +23,7 @@
     * 예) git log --oneline --decorate --graph --all
 
 ###### 추가적인 깃 명령어
-[이건영 깃 명령어 모음집]
+[이건영 깃 명령어 모음집](https://github.com/Leegunyoung/2023_OSS/blob/main/w3/git_command.txt)
 ------
 ### 2주차 숙제
 
@@ -36,7 +36,7 @@ echo
 
 echo "----------"
 echo "student id :"
-
+echo 
 
 file_path=`find /home/kau2/ -name w2_homework.txt 2> /dev/null`
 echo "----------"
